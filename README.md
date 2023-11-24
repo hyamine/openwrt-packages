@@ -6,9 +6,9 @@
 [![Lean](https://img.shields.io/badge/source-Lean-red.svg?style=flat&logo=appveyor)](https://github.com/coolsnowwolf/lede) 
 [![passwall](https://img.shields.io/badge/passwall-xiaorouji-orange.svg?style=flat&logo=appveyor)](https://github.com/xiaorouji/openwrt-passwall) 
 [![ssr plus](https://img.shields.io/badge/ssrplus-fw876-blue.svg?style=flat&logo=appveyor)](https://github.com/fw876/helloworld)
-[![actions](https://img.shields.io/badge/actions-roa-tomato.svg?style=flat&logo=appveyor)](https://github.com/roacn/build-actions) 
-[![apps](https://img.shields.io/badge/compile-roa-deeppink.svg?style=flat&logo=appveyor)](https://github.com/roacn/compile-packages)
-![code-size](https://img.shields.io/github/languages/code-size/roacn/openwrt-packages?color=blueviolet)
+[![actions](https://img.shields.io/badge/actions-roa-tomato.svg?style=flat&logo=appveyor)](https://github.com/hyamine/openwrt-build-actions) 
+[![apps](https://img.shields.io/badge/compile-roa-deeppink.svg?style=flat&logo=appveyor)](https://github.com/hyamine/openwrt-compile-packages)
+![code-size](https://img.shields.io/github/languages/code-size/hyamine/openwrt-packages?color=blueviolet)
 
 
 | 插件                                                         | 说明                                                         |
